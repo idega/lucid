@@ -26,5 +26,6 @@
 		<project reference="1.0,:extssh:build.idega.is:/idega/cvs,com.idega.block.platform/com.idega.graphics,com.idega.graphics"/>
 		<project reference="1.0,:extssh:build.idega.is:/idega/cvs,com.idega.block.platform/com.idega.springframework,org.springframework"/>
 		<project reference="1.0,:extssh:build.idega.is:/idega/cvs,com.idega.block.platform/com.idega.multidomain,com.idega.multidomain"/>
+		<project reference="1.0,:extssh:build.idega.is:/idega/cvs,com.idega.block.platform/com.idega.hibernate,com.idega.hibernate"/>
 	</provider>
 </psf>

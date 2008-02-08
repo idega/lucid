@@ -129,6 +129,10 @@
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.multidomain</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.platform</groupId>
+      <artifactId>com.idega.hibernate</artifactId>
+    </dependency>
   </dependencies>
 
   <distributionManagement>
