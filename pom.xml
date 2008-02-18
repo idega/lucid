@@ -4,7 +4,7 @@
   <parent>
   	<groupId>com.idega.block.platform</groupId>
   	<artifactId>com.idega.block.platform</artifactId>
-  	<version>4.0.1</version>
+  	<version>4.0.2-SNAPSHOT</version>
   </parent>
   <groupId>com.idega.webapp.custom</groupId>
   <artifactId>lucid</artifactId>
