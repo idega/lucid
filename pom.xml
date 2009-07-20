@@ -115,10 +115,6 @@
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
-      <artifactId>com.idega.idegaweb.widget</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.graphics</artifactId>
     </dependency>
     <dependency>
